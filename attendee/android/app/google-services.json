@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "608946622000",
+    "project_id": "attendee-b01dd",
+    "storage_bucket": "attendee-b01dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608946622000:android:c93622b4f7d847506a27f5",
+        "android_client_info": {
+          "package_name": "com.meth.attendee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608946622000-ur9nf8gdpl49j71ghdsg8qihbhbdqudj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meth.attendee",
+            "certificate_hash": "b71714cfe40d45b9b67deb29100c0a64ed3c1ea6"
+          }
+        },
+        {
+          "client_id": "608946622000-1ca3n6el2pb6if8ofcdggj71j2gcr8u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjKiQR1CaAu_hEgjdAS40n8ern8awnTL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608946622000-1ca3n6el2pb6if8ofcdggj71j2gcr8u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
